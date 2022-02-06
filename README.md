@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - Bank API 
 - Youtube to spotify automation 
-- Simple Tic Tac Toe, you vs pc
+- Simple Tic Tac Toe - you vs pc
 
 
 My Stack:
-My Tech Stack: Java, Spring, Node.js, Express.js, MySQL, MongoDB, HTML&CSS, JavaScript, TypeScript, React, Redux and more.. 
+Back-End - Java, Spring Framework, Node.js, Express.js  
+Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux
+DataBase - MySQL, MongoDB
+Cloud - Heroku, Firebase
+Other - Git, Docker, MicroServices
 
 <!--
 **daniel-aziz/daniel-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
