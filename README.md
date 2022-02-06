@@ -11,7 +11,7 @@ Back-End - Java, Spring Framework, Node.js, Express.js  \
 Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux\
 DataBase - MySQL, MongoDB\
 Cloud - Heroku, Firebase\
-Other - Git, Docker, MicroServices\
+Other - Git, Docker, MicroServices
 
 <!--
 **daniel-aziz/daniel-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
