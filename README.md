@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-- Bank API 
 - Youtube to spotify automation 
 - Decomposed Coupon System Backend
 
