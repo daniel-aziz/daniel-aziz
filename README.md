@@ -3,7 +3,7 @@
 🔭 I’m currently working on ...
 - Bank API 
 - Youtube to spotify automation 
-- Simple Tic Tac Toe - you vs pc
+- Decomposed Coupon System Backend
 
 
 My Stack:\
