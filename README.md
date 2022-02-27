@@ -9,7 +9,7 @@ My Stack:\
 Back-End - Java, Spring Framework, Node.js, Express.js  \
 Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux\
 DataBase - MySQL, MongoDB\
-Cloud - Heroku, Firebase\
+Cloud - AWS, Heroku, Firebase\
 Other - Git, Docker, MicroServices
 
 <!--
