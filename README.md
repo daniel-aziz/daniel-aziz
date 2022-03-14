@@ -5,12 +5,13 @@
 - Decomposed Coupon System Backend
 
 
-My Stack:\
+My Stack:
+
 Back-End - Java, Spring Framework, Node.js, Express.js\
 Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux, MobX\
-Databases - MySQL, MongoDB\ 
-Cloud - AWS, Heroku, Firebase\ 
-Other - Git, Docker, Microservices\ 
+Databases - MySQL, MongoDB\
+Cloud - AWS, Heroku, Firebase\
+Other - Git, Docker, Microservices
 
 <!--
 **daniel-aziz/daniel-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
