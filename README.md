@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
-- Youtube to spotify automation 
-- Decomposed Coupon System Backend
-
 
 My Stack:
 
