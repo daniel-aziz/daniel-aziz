@@ -4,7 +4,7 @@
 My Stack:
 
 Back-End - Java, Spring Framework, Node.js, Express.js\
-Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux, MobX\
+Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux, MobX, Styled-Components\
 Databases - MySQL, MongoDB\
 Cloud - AWS, Heroku, Firebase\
 Other - Git, Docker, Microservices
