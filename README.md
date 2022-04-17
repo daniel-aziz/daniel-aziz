@@ -9,6 +9,11 @@ Databases - MySQL, MongoDB\
 Cloud - AWS, Heroku, Firebase\
 Other - Git, Docker, Microservices
 
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdaniel-aziz&label=Visitors&countColor=%2337d67a&style=flat)
+
+
+
 <!--
 **daniel-aziz/daniel-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
