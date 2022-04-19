@@ -3,11 +3,13 @@
 
 My Stack:
 
-Back-End - Java, Spring Framework, Node.js, Express.js\
-Front-End - JavaScript, TypeScript, HTML & CSS, React, Redux, MobX, Styled-Components\
-Databases - MySQL, MongoDB\
-Cloud - AWS, Heroku, Firebase\
+Back-End -  Java, Spring Framework, Node.js, Express.js
+Front-End -  React js, JavaScript, TypeScript, HTML & CSS
+Libraries and tools - Material UI, Styled Components, React Hooks, Redux, MobX,
+Databases - MySQL, MongoDB
+Cloud - Heroku, Firebase, AWS Elastic Beanstalk
 Other - Git, Docker, Microservices
+
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdaniel-aziz&label=Visitors&countColor=%2337d67a&style=flat)
