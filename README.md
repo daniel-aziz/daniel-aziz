@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ... Angular
 
 My Stack:
+
 
 Back-End -  Java, Spring Framework, Node.js, Express.js\
 Front-End -  React js, JavaScript, TypeScript, HTML & CSS\
